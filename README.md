@@ -1,5 +1,7 @@
 # Nebula Kirana Ops Agent
 
+live deployment link: https://nebula-ops-agent.onrender.com
+
 Run a small Indian kirana store end-to-end from Telegram — stock, billing, khata, daily close,
 GST invoices, and analysis decks — driven by an agent that calls tools, not a command router.
 
