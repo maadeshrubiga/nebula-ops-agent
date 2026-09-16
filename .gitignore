@@ -1,0 +1,10 @@
+.env
+__pycache__/
+*.pyc
+nebula_store.db
+nebula_store.db-wal
+nebula_store.db-shm
+outputs/*.pdf
+outputs/*.pptx
+.venv/
+venv/
